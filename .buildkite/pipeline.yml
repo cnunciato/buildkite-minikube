@@ -1,3 +1,4 @@
 steps:
     - label: ":wave: Hello!"
-      command: "echo 'Hi, world!'"
+      command: |
+        nope.jpg
