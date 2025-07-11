@@ -1,4 +1,3 @@
 steps:
     - label: ":wave: Hello!"
-      command: |
-        nope.jpg
+      doesnt: work
