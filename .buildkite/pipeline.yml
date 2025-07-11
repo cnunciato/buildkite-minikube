@@ -2,4 +2,4 @@
 #     queue: default
 steps:
     - label: ":wave: Hello!"
-      echo: "Hi, world!"
+      command: echo: "Hi, world!"
