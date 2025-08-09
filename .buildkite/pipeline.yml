@@ -1,3 +1,3 @@
 steps:
   - label: ":wave: Hi, world!"
-    command: "Hi!"
+    command: echo "Hi!"
