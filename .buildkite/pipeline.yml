@@ -1,3 +1,3 @@
 steps:
-    - label: ":wave: Hello!"
-      doesnt: work
+  - label: ":wave: Hi, world!"
+    command: "Hi!"
